@@ -1,0 +1,27 @@
+:root {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+}
+* {
+    font: inherit
+}
+
+#meme-canvas {
+    width: 300px
+}
+
+body {
+    background-color: rgb(173, 230, 225);
+  }
+ 
+input,
+label {
+    margin: .4rem 0;
+}
+section {
+    display: flex;
+  }
